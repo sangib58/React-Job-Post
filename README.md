@@ -1,6 +1,6 @@
 # React + Vite
 
-
+![alt text](https://github.com/sangib58/React-Job-Post/blob/main/src/assets/react-job-posting.png)
 
 This is a job posting web site. This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
